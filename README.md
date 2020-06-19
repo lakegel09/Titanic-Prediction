@@ -1,4 +1,4 @@
 # Titanic-prediction
 Survival prediction
  
-<img src="titanic2.jpg" width="800" />
+<img src="review/titanic2.jpg" width="800" />
